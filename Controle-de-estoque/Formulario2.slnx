@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Formulario2/Formulario2.csproj" Id="ae3ef88c-68d6-4f3d-a722-701f42d5d15c">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
